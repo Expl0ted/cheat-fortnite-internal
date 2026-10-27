@@ -11,7 +11,15 @@
   - Target Lock: Head, Neck, Chest  
   - Adjustable FOV (1-300°)  
   - Smoothing Control (1-100)  
-  - Max Targeting Distance (10-1000m)  
+  - Max Targeting Distance (10-1000m)
+  - Tp bullet
+- **Exploit** 
+  - tiny hitbox
+  - fly vehicul
+  - jump boost
+  - jump infinit
+  - vehicul tp
+  ........
 - **Anti-Cheat Bypass**  
   - BattlEye Protection Bypass  
   - Easy Anti-Cheat (EAC) Evasion  
